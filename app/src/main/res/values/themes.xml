@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Design" />
+    <style name="Design.BaseTheme" parent="@style/Theme.AppCompat.NoActionBar" />
+    <style name="Design.Theme" parent="@style/Design.BaseTheme">
+        <item name="colorPrimary">@color/nord0</item>
+        <item name="colorPrimaryDark">@color/nord0</item>
+        <item name="colorAccent">@color/nord8</item>
+
+        <item name="android:colorBackground">@color/nord0</item>
+        <item name="android:windowBackground">@color/nord0</item>
+    </style>
+
+</resources>
